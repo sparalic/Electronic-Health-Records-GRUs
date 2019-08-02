@@ -1,0 +1,22 @@
+HashKey,PatientID,Admission ID,CodingSystem,PrimaryDiagnosisCode,DiagnosisCodeDescription
+A1234-12,A1234-B456,12,ICD-9,E11.64,Type 2 diabetes mellitus with hypoglycemia
+A1234-12,A1234-B456,12,ICD-9,I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+A1234-12,A1234-B456,12,ICD-9,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+A1234-34,A1234-B456,34,ICD-9,E11.64,Type 2 diabetes mellitus with hypoglycemia
+A1234-34,A1234-B456,34,ICD-9,I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+A1234-34,A1234-B456,34,ICD-9,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+A1234-34,A1234-B456,34,ICD-9,780.96,Generalized Pain
+A1234-34,A1234-B456,34,ICD-9,784.0,Dizziness and giddiness
+A1234-15,A1234-B456,15,ICD-9,E11.64,Type 2 diabetes mellitus with hypoglycemia
+A1234-15,A1234-B456,15,ICD-9,I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+A1234-15,A1234-B456,15,ICD-9,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+A1234-15,A1234-B456,15,ICD-9,786.50,"Chest pain, unspecified"
+A1234-15,A1234-B456,15,ICD-9,401.9,"Essential hypertension, unspecified"
+A1234-15,A1234-B456,15,ICD-9,789.00,"Abdominal pain, unspecified site"
+B1234-13,B1234-C456,13,ICD-9,M05.59,Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites
+B1234-13,B1234-C456,13,ICD-9,Z13.85,Encounter for screening for nervous system disorders
+B1234-13,B1234-C456,13,ICD-9,O99.35,"Diseases of the nervous system complicating pregnancy, childbirth, and the puerperium"
+B1234-34,B1234-C456,34,ICD-9,M05.59,Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites
+B1234-34,B1234-C456,34,ICD-9,Z13.85,Encounter for screening for nervous system disorders
+B1234-34,B1234-C456,34,ICD-9,O99.35,"Diseases of the nervous system complicating pregnancy, childbirth, and the puerperium"
+B1234-34,B1234-C456,34,ICD-9,D37.0,"Neoplasm of uncertain behavior of lip, oral cavity and pharynx"

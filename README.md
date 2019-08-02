@@ -1,1 +1,3 @@
-
+# Doctor AI paper implentation in Pytorch:
+Background: Detailed review of Doctor AI: Predicting Clinical Events via Recurrent Neural Nets (Choi et.al 2016)
+The intent of tutorial is to provide a detailed step through on how EHR data should be pre-processed for use in RNNs using Pytorch. This paper is one of the few papers that provide a code base to start taking a detailed look into how we can build generic models that leverages temporal models to predict future clinical events. However, while this highly cited paper is open sourced (written using Theano:https://github.com/mp2893/doctorai), it assumes quite a bit about it's readers. As such, we have modernized the code for ease of use in python 3+ and provided a detailed explanation of each step to allow anyone, with a computer and access to healthcare data to begin trying to develop innovative solutions to solve healthcare challenges.
